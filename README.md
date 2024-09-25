@@ -59,11 +59,27 @@ _Kursiv_
 
 ----
 
-`Bild einfügen ! [alt text] (image.jpg)`
-![alt text] (https://digitalcareerinstitute.org/wp-content/uploads/2022/04/Front-page.png)
+`Bild einfügen ! [alt text](image.jpg) Achtung Grösser nicht verändert`
+![alt text](https://digitalcareerinstitute.org/wp-content/uploads/2022/04/DCI_COLORS_June24_logo_wordmark_blue.svg)
 
 ----
-emojo
+`Emoji einfügen :Emojiname`
+✋
+
+---
+
+`To Do Listen - [x] Todo`
+
+- [x] Todo 1
+- [ ] Todo 2
+
+----
+
+`> Zitat`
+
+> Zitat
+
+
 
 
 
